@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi, I am a passionate developer with an interest in frontend development, and I also create APIs with Express and Flask when required. But what I really love doing is, if necessary, complicating things to make a simple button appealing to users. Apart from writing code, I enjoy breaking down complex issues into simpler steps and conveying them to others in layman's terms. I am also customer-obsessed and ensure that clients understand what's going on, striving to find solutions to problems they present.
 
-## Checkout the <u><a href="https://badri119.github.io/portfolio/" target="_blank">projects</a></u> that I worked on!
+## I've built these <u><a href="https://badri119.github.io/portfolio/" target="_blank">projects</a></u> for fun and enjoy building full-stack applications that serve a purpose!
 
 When I'm not working, I love biking, as shown in the picture above. I also aim to start racing soon, once I'm in better shape and confident my legs can break the pedals 😆
 
