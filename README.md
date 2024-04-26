@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Riding my bike at Stanley Park](images/bike.JPG)
+<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/bike.JPG" alt="" height="600" width="600" />
 
 Hi, I am a passionate developer with an interest in frontend development, and I also create APIs with Express and Flask when required. But what I really love doing is, if necessary, complicating things to make a simple button appealing to users. Apart from writing code, I enjoy breaking down complex issues into simpler steps and conveying them to others in layman's terms. I am also customer-obsessed and ensure that clients understand what's going on, striving to find solutions to problems they present.
 
@@ -37,10 +37,8 @@ Off work, I enjoy riding my bike, as you can see from the picture above, and I p
 
 ### In May 2023, I began cycling, and within three months, I rode all the way from North Vancouver to Mount Baker and back, all in one day. Would I endure the discomfort again? Absolutely!
 
-<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=300 width="300"> </img>
+<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=600 width="500"> </img>
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=badri119&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for badri119" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=badri119&theme=jolly" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=badri119&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for badri119" width="600">
