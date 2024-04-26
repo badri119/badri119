@@ -19,27 +19,27 @@ Here are some ideas to get you started:
 
 Hi, I am a passionate developer with an interest in frontend development, and I also create APIs with Express and Flask when required. But what I really love doing is, if necessary, complicating things to make a simple button appealing to users. Apart from writing code, I enjoy breaking down complex issues into simpler steps and conveying them to others in layman's terms. I am also customer-obsessed and ensure that clients understand what's going on, striving to find solutions to problems they present.
 
-## Checkout the <u><a href="https://badri119.github.io/portfolio/" target="blank">projects</a></u> that I worked on!
+## Checkout the <u><a href="https://badri119.github.io/portfolio/" target="_blank">projects</a></u> that I worked on!
 
 Off work, I enjoy riding my bike, as you can see from the picture above, and I plan on racing soon once I am fit and believe my legs can last longer to hammer the pedals.
 
 ### You can find me on the web:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/badrinath-vasudevan/" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/linkedin.png" alt="" height="30" /></a>
-<a href="https://github.com/badri119" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/github.png" alt="" height="30" /></a>
-<a href="https://www.strava.com/athletes/27323240" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/strava.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/badrinath-vasudevan/" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/linkedin.png" alt="" height="30" /></a>
+<a href="https://github.com/badri119" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/github.png" alt="" height="30" /></a>
+<a href="https://www.strava.com/athletes/27323240" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/strava.png" alt="" height="30" /></a>
 </p>
 
 ### I occasionally play games and mainly use Steam, feel free to add me 🎮
 
-<a href="https://steamcommunity.com/id/Foodoodle" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/steam.png" alt="" height="30" /></a>
+<a href="https://steamcommunity.com/id/Foodoodle" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/steam.png" alt="" height="30" /></a>
 
 ## Wanna know something cool?
 
 ### In May 2023, I began cycling, and within three months, I rode all the way from North Vancouver to Mount Baker and back, all in one day. Would I endure the discomfort again? Absolutely!
 
-<a href="https://www.strava.com/activities/9636811819/overview?utm_medium=web_embed&utm_source=activity_embed&strava_deeplink_url=strava%3A%2F%2Factivities%2F9636811819&_branch_match_id=1225906408202954395&_branch_referrer=H4sIAAAAAAAAA3WOywrCMBBFvyYuLW2ktIKIIF25dR0m6UiHJjbmVfx7U1vcCbO5c7iPIQTrj0Xhg4MEe7B2r%2Bk5FupGcIeG%2B5c8s%2BrwAK0lqFFEp0%2FD4mH8wqou3%2BZUk8kCVKBEgdBn0da8bsqyKdsspoQuEc6MdzEYYbCnaBi%2FzigFGok9q%2BoF%2BCk6hRlsUe%2BV7tYa0SPaZeB3yPr7LflT%2FgG5cMxc4wAAAA%3D%3D" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=500 width="500"> </img> </a>
+<a href="https://www.strava.com/activities/9636811819/overview?utm_medium=web_embed&utm_source=activity_embed&strava_deeplink_url=strava%3A%2F%2Factivities%2F9636811819&_branch_match_id=1225906408202954395&_branch_referrer=H4sIAAAAAAAAA3WOywrCMBBFvyYuLW2ktIKIIF25dR0m6UiHJjbmVfx7U1vcCbO5c7iPIQTrj0Xhg4MEe7B2r%2Bk5FupGcIeG%2B5c8s%2BrwAK0lqFFEp0%2FD4mH8wqou3%2BZUk8kCVKBEgdBn0da8bsqyKdsspoQuEc6MdzEYYbCnaBi%2FzigFGok9q%2BoF%2BCk6hRlsUe%2BV7tYa0SPaZeB3yPr7LflT%2FgG5cMxc4wAAAA%3D%3D" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=500 width="500"> </img> </a>
 
 ## Stats
 
