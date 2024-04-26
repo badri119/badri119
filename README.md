@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Badrinath Vasudevan AKA Badri!
 
 <!--
 **badri119/badri119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
