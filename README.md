@@ -24,20 +24,20 @@ Off work, I enjoy riding my bike, as you can see from the picture above, and I p
 ### You can find me on the web:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/badrinath-vasudevan/" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/master/images/linkedin.png" alt="" height="30" /></a>
-<a href="https://github.com/badri119" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/master/images/github.png" alt="" height="30" /></a>
-<a href="https://www.strava.com/athletes/27323240" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/master/images/strava.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/badrinath-vasudevan/" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/linkedin.png" alt="" height="30" /></a>
+<a href="https://github.com/badri119" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/github.png" alt="" height="30" /></a>
+<a href="https://www.strava.com/athletes/27323240" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/strava.png" alt="" height="30" /></a>
 </p>
 
 ### I occasionally play games and mainly use Steam, feel free to add me 🎮
 
-<a href="https://steamcommunity.com/id/Foodoodle" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/master/images/steam.png" alt="" height="30" /></a>
+<a href="https://steamcommunity.com/id/Foodoodle" target="blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/steam.png" alt="" height="30" /></a>
 
 ## Wanna know something cool?
 
 ### In May 2023, I began cycling, and within three months, I rode all the way from North Vancouver to Mount Baker and back, all in one day. Would I endure the discomfort again? Absolutely!
 
-<img align="center" src="https://github.com/badri119/badri119/blob/master/images/Ride.jpeg" alt=""> </img>
+<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=300 width="300"> </img>
 
 ## Stats
 
