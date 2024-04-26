@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/bike.JPG" alt="" height="800" width="800" />
+<img align="center" src="https://github.com/badri119/badri119/blob/Master/images/bike.JPG" alt="" height="400" width="400" />
 
 Hi, I am a passionate developer with an interest in frontend development, and I also create APIs with Express and Flask when required. But what I really love doing is, if necessary, complicating things to make a simple button appealing to users. Apart from writing code, I enjoy breaking down complex issues into simpler steps and conveying them to others in layman's terms. I am also customer-obsessed and ensure that clients understand what's going on, striving to find solutions to problems they present.
 
-## Checkout the <a><img src="https://github.com/badri119/badri119/blob/Master/images/project.png" alt="" height="30">projects</img> </a> that I worked on!
+## Checkout the <u><a href="https://badri119.github.io/portfolio/" target="blank"><projects</img> </a></u> that I worked on!
 
 Off work, I enjoy riding my bike, as you can see from the picture above, and I plan on racing soon once I am fit and believe my legs can last longer to hammer the pedals.
 
