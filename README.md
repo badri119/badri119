@@ -21,7 +21,7 @@ Hi, I am a passionate developer with an interest in frontend development, and I 
 
 ## Checkout the <u><a href="https://badri119.github.io/portfolio/" target="_blank">projects</a></u> that I worked on!
 
-Off work, I enjoy riding my bike, as you can see from the picture above, and I plan on racing soon once I am fit and believe my legs can last longer to hammer the pedals.
+When I'm not working, I love biking, as shown in the picture above. I also aim to start racing soon, once I'm in better shape and confident my legs can break the pedals 😆
 
 ### You can find me on the web:
 
