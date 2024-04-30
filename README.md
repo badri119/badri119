@@ -40,7 +40,3 @@ When I'm not working, I love biking, as shown in the picture above. I also aim t
 ### In May 2023, I began cycling, and within three months, I rode all the way from North Vancouver to Mount Baker and back, all in one day. Would I endure the discomfort again? Absolutely!
 
 <a href="https://www.strava.com/activities/9636811819/overview?utm_medium=web_embed&utm_source=activity_embed&strava_deeplink_url=strava%3A%2F%2Factivities%2F9636811819&_branch_match_id=1225906408202954395&_branch_referrer=H4sIAAAAAAAAA3WOywrCMBBFvyYuLW2ktIKIIF25dR0m6UiHJjbmVfx7U1vcCbO5c7iPIQTrj0Xhg4MEe7B2r%2Bk5FupGcIeG%2B5c8s%2BrwAK0lqFFEp0%2FD4mH8wqou3%2BZUk8kCVKBEgdBn0da8bsqyKdsspoQuEc6MdzEYYbCnaBi%2FzigFGok9q%2BoF%2BCk6hRlsUe%2BV7tYa0SPaZeB3yPr7LflT%2FgG5cMxc4wAAAA%3D%3D" target="_blank"><img align="center" src="https://github.com/badri119/badri119/blob/Master/images/Ride.jpeg" alt="" height=500 width="500"> </img> </a>
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=badri119&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for badri119" width="600">
